@@ -3,10 +3,10 @@
 **Evaluation of Airbnb Pricing and Crime Rates in Chicago**
 
 Team Members:
-Colleen Jung
-Kevin Ko
-Khushi Ranganatha
-Saphir Qi
+- Colleen Jung
+- Kevin Ko
+- Khushi Ranganatha
+- Saphir Qi
 
 This README provides an overview of our project's objectives, methodology, analysis, and key recommendations.
 
